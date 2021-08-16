@@ -1,2 +1,2 @@
 # ML_Study
-Maching Learning study codes
+Machine Learning study codes
