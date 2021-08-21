@@ -1,2 +1,2 @@
-# ML_Study
-Machine Learning study codes
+# 혼자 공부하는 머신러닝 딥러닝
+한빛미디어의 혼자 공부하는 머신러닝 딥러닝 Jupyter Notebook !
